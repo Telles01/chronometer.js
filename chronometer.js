@@ -4,7 +4,7 @@ var hh = 0;
 var mm = 0;
 var ss = 0;
 
-var tempo = 1000;// quantos milisimos valem 1 segundo
+var tempo = 50;// quantos milisimos valem 1 segundo
 var cron;
 
 
